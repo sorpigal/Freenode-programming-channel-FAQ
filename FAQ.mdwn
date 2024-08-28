@@ -1158,9 +1158,10 @@ vs whitespace expansions or because you are using a different tab
 expansion step than the paste-site or that of other channel members'
 local editor (e.g: 4 spaces, 8 spaces, 2 spaces, 3 spaces). Please make
 sure your indentation is consistent either by expanding all tabs to
-spaces, or by using a
+spaces, by using a
 [prettyprinter](https://en.wikipedia.org/wiki/Prettyprint) /
-autoformatter for your programming language.
+autoformatter for your programming language, or by using
+[tabs only for indentation](https://dmitryfrank.com/articles/indent_with_tabs_align_with_spaces).
 
 ### I want to release my code - which (open source) licence should I use?
 
